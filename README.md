@@ -70,7 +70,7 @@ void main (void)
 
 The code above produces output:
 
-`
+```
 Just created buffer content:
 0 0 0 0
 0 0 0 0
@@ -91,4 +91,4 @@ Let's get selected samples (1-2) of channel (ind = 1):
 [ 10 13 ]
 And get buffer's data storage:
 [ 6 7 8 9 10 11 12 13 14 15 16 17 ]
-`
+```
